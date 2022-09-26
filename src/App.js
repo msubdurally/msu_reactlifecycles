@@ -1,6 +1,5 @@
 import './App.css';
 import React from 'react';
-import ReactDOM from 'react-dom';
 import Counter from './counter';
 
 class App extends React.Component {
